@@ -19,11 +19,6 @@ Here are a few projects I'm currently working on or have contributed to:
 - **Description:** A highly practical tool for assisting with article memorization.
 - **Technologies Used:** Next.js, Tailwind CSS.
 - **Repository:** [Link to the repository](https://github.com/MituFun/recite)
-- 
-### Recite Tool
-- **Description:** A highly practical tool for assisting with article memorization.
-- **Technologies Used:** Next.js, Tailwind CSS.
-- **Repository:** [Link to the repository](https://github.com/MituFun/recite)
 
 ### Yuxin Craft
 - **Description:** My Minecraft Server Website
