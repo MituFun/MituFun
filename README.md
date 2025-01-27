@@ -8,7 +8,7 @@ Welcome to my GitHub profile! Below is a bit about me and some of my projects.
 - ⚡ Fun fact: I love playing video games and using my skills to solve real-world problems.
 
 ## Projects
-Here are a few projects I'm currently working on or have contributed to:
+Here are a few projects I'm currently working on:
 
 ### My Blog Page
 - **Description:** A project developed with Astro, thanks to the open-source [fuwari](https://github.com/saicaca/fuwari) project.
