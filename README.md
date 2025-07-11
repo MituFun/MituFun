@@ -1,17 +1,30 @@
-# Hi there, I'm MituFun! 👋
+### Hi there 👋
 
-Welcome to my GitHub profile! Below is a bit about me and some of my projects.
+I'm **MituFun**, a passionate tech enthusiast and former OIer (2019–2023).  
+Due to academic priorities, I had to step away from competitive programming :(
 
-## About Me
-- 🌱 At first, I was an informatics competition student, but later I started learning web development because it gives me a greater sense of achievement.
-- 📫 How to reach me: [mitufun@mitufun.top](mailto:mitufun@mitufun.top) And most of my social media accounts are named MituFun. Aside from that, I highly recommend you visit my personal website: https://www.mitufun.top
+---
+
+#### 💻 About Me
+- 🔧 Former **Olympiad in Informatics** competitor (2019–2023)
+- 🌱 Constantly learning and building
+- 🌐 Personal Website: [www.mitufun.top](https://www.mitufun.top)
+- 📫 Reach me at: **mitufun@mitufun.top**
+
+---
+
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MituFun&layout=compact&theme=radical)
 
-## Connect with Me
-- **[Personal Website](https://www.mitufun.top)**
-- [Twitter](https://x.com/William3086342)
-- [Instagram](https://www.instagram.com/mitufun123/)
+---
 
-Thanks for visiting my profile! Have a great day! 😊
+#### 🎮 Gaming Interests
+- 🏁 Currently obsessed with **WRC 9** and **Forza Horizon 4/5**
+- 🧱 I used to be deeply into **Minecraft** — although I don’t play it as much nowadays,  
+  you can still find some of Minecraft-related contents on my blog at [www.mitufun.top](https://www.mitufun.top)
+
+---
+
+Thanks for stopping by! Feel free to explore my projects, check out my blog,  
+or just reach out if you want to chat about code, games, or anything interesting.
