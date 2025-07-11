@@ -14,7 +14,7 @@ Due to academic priorities, I had to step away from competitive programming :(
 ---
 
 
-## Top Languages
+### 📊 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MituFun&layout=compact&theme=radical)
 
 ---
