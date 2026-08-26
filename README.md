@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-I'm **MituFun**, a passionate tech enthusiast and former OIer (2019–2023).  
-Due to academic priorities, I had to step away from competitive programming :(
+I'm **MituFun**, a passionate tech enthusiast and OIer (2019–2023, 2026-). 
 
 ---
 
 #### 💻 About Me
-- 🔧 Former **Olympiad in Informatics** competitor (2019–2023)
+- 🔧 Olympiad in Informatics competitor (2019–2023, 2026-)
 - 🌱 Constantly learning and building
 - 🌐 Personal Website: [www.mitufun.top](https://www.mitufun.top)
 - 📫 Reach me at: **mitufun@mitufun.top**
@@ -26,5 +25,4 @@ Due to academic priorities, I had to step away from competitive programming :(
 
 ---
 
-Thanks for stopping by! Feel free to explore my projects, check out my blog,  
-or just reach out if you want to chat about code, games, or anything interesting.
+Thanks for stopping by! Feel free to explore my projects and check out my blog.
