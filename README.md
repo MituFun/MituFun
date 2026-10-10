@@ -6,14 +6,10 @@
 
 I'm an undergraduate student majoring in **Data Science and Big Data Technology** at **Southwest University**, China.
 
-Passionate about competitive programming, software development, and building interesting things.
-
 ### 🚀 About Me
 
 - 🧩 Competitive programming enthusiast, focusing on **ICPC** and algorithms
-- 💻 Mainly working with **C++** and **Python**
-- 🌐 Building and maintaining my personal website and side projects
-- 📚 Always exploring new technologies and improving my programming skills
+- 💻 Mainly working with **C++**
 
 ### 🛠️ Tech Stack
 
