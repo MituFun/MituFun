@@ -40,3 +40,5 @@ Passionate about competitive programming, software development, and building int
 - 🌐 **Website:** [mitufun.top](https://mitufun.top)
 - 📝 **Blog:** [blog.mitufun.top](https://blog.mitufun.top)
 - 📧 **Email:** [mitufun@mitufun.top](mailto:mitufun@mitufun.top)
+
+*God, grant me the serenity to accept the things I cannot change; courage to change the things I can; and wisdom to know the difference.*
