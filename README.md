@@ -1,28 +1,44 @@
-### Hi there 👋
+# Hi there, I'm MituFun! 👋
 
-I'm **MituFun**, a passionate tech enthusiast and OIer (2019–2023, 2026-). 
+🌐 **Personal Website: [mitufun.top](https://mitufun.top)**
 
----
+💻 **Competitive Programmer | Developer | Tech Enthusiast**
 
-#### 💻 About Me
-- 🔧 Olympiad in Informatics competitor (2019–2023, 2026-)
-- 🌱 Constantly learning and building
-- 🌐 Personal Website: [www.mitufun.top](https://www.mitufun.top)
-- 📫 Reach me at: **mitufun@mitufun.top**
+I'm an undergraduate student majoring in **Data Science and Big Data Technology** at **Southwest University**, China.
 
----
+Passionate about competitive programming, software development, and building interesting things.
 
+### 🚀 About Me
 
-### 📊 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MituFun&layout=compact&theme=radical)
+- 🧩 Competitive programming enthusiast, focusing on **ICPC** and algorithms
+- 💻 Mainly working with **C++** and **Python**
+- 🌐 Building and maintaining my personal website and side projects
+- 📚 Always exploring new technologies and improving my programming skills
 
----
+### 🛠️ Tech Stack
 
-#### 🎮 Gaming Interests
-- 🏁 Currently obsessed with **WRC 9** and **Forza Horizon 4/5**
-- 🧱 I used to be deeply into **Minecraft** — although I don’t play it as much nowadays,  
-  you can still find some of Minecraft-related contents on my blog at [www.mitufun.top](https://www.mitufun.top)
+**Languages**
 
----
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-Thanks for stopping by! Feel free to explore my projects and check out my blog.
+**Tools & Environment**
+
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MituFun&show_icons=true&theme=transparent&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MituFun&layout=compact&theme=transparent&hide_border=true)
+
+### 📫 Connect With Me
+
+- 🌐 **Website:** [mitufun.top](https://mitufun.top)
+- 📝 **Blog:** [blog.mitufun.top](https://blog.mitufun.top)
+- 📧 **Email:** [mitufun@mitufun.top](mailto:mitufun@mitufun.top)
