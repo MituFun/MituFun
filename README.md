@@ -1,6 +1,6 @@
 # Hi there, I'm MituFun! 👋
 
-🌐 **Personal Website: [mitufun.top](https://mitufun.top)**
+🌐 **Personal Website: [mitufun.top](https://www.mitufun.top/)**
 
 💻 **Competitive Programmer | Developer | Tech Enthusiast**
 
